@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/fangohr/latex-for-report-writing.svg?branch=master)](https://travis-ci.org/fangohr/latex-for-report-writing)
+
 # latex-for-report-writing
 
 Teaching materials: Practical tips for report writing with LaTeX
